@@ -6,7 +6,7 @@ The software is a very simple application that prints the message **"Hello World
 
 The purpose of creating this software is to establish the workflow I will use throughout the course: writing code, documenting it, publishing it to GitHub, and recording a short video demonstration.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/yjnj1YFMpVY)
 
 # Development Environment
 
